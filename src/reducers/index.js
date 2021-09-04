@@ -8,5 +8,5 @@ export default combineReducers({
   authedUser,
   users,
   tweets,
-  loadingBar: loadingBarReducer
+  loadingBar: loadingBarReducer,
 });
